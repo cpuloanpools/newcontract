@@ -1,4 +1,4 @@
-The functions of all actions and functions within the contract is as follow:
+The functioning of all actions and functions within the contract is as follow:
 
  1). Action: setconfig
  
